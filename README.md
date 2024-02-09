@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a statistical learning course
-- 🌱 I’m currently learning MLOps and graph neural networks
+- 🌱 I’m currently studying Large Language Models and Retrieval Augmented Generation methods
 - 👯 I’m looking to collaborate on any interesting data science project
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/andrea-cadeddu)
